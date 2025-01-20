@@ -1,6 +1,6 @@
 public class Overloadconst {
     Overloadconst(){
-        System.out.println("Hi.....!\n");
+        System.out.println("Hi.....!");
     }
     Overloadconst(int a){
         System.out.println("a="+a);
