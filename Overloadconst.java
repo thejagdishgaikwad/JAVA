@@ -8,6 +8,7 @@ public class Overloadconst {
     Overloadconst(char c){
         System.out.println("c="+c);
     }
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         Overloadconst obj1=new Overloadconst();
         Overloadconst obj2=new Overloadconst(10);
