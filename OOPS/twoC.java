@@ -17,8 +17,9 @@ package JAVA.OOPS;
 public class twoC {
     public static void main(String[] args) {
         BabyDog Obj1=new BabyDog();
-        Obj1.eat();
+        Dog obj2=new Dog();
         Obj1.weep();
+        obj2.bark();
         Obj1.eat();
     }
 }
