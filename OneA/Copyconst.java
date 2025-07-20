@@ -1,5 +1,5 @@
 
-package JAVA.OneA;
+package Java.OneA;
 public class Copyconst {
     int id;
     String name;

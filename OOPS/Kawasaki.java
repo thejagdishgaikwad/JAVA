@@ -1,4 +1,4 @@
-package JAVA.OOPS;
+package Java.OOPS;
 abstract class Bike{
     abstract void run();
 }

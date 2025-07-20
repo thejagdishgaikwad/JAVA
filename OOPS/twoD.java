@@ -1,4 +1,4 @@
-package JAVA.OOPS;
+package Java.OOPS;
 class animal{
     void eat(){
         System.out.println("Eating");

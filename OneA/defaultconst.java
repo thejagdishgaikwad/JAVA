@@ -1,4 +1,4 @@
-package JAVA.OneA;
+package Java.OneA;
 public class defaultconst {
 
     defaultconst(){

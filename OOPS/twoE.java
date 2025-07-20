@@ -1,4 +1,4 @@
-package JAVA.OOPS;
+package Java.OOPS;
 class Bank{
     int getRateOfInterest(){
         return 0;

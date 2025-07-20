@@ -1,4 +1,4 @@
-package JAVA.OneB;
+package Java.OneB;
 
 public class sMethods {
     static void greatest(){

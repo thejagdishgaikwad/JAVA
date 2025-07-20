@@ -1,4 +1,4 @@
-package JAVA.OOPS;
+package Java.OOPS;
 
 class Employee{
     float salary = 80000;

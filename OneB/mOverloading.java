@@ -1,4 +1,4 @@
-package JAVA.OneB;//package name should never start with digit
+package Java.OneB;//package name should never start with digit
 
 public class mOverloading {
     void add(){

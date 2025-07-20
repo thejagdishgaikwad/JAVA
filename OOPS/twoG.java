@@ -1,4 +1,4 @@
-package JAVA.OOPS;
+package Java.OOPS;
 interface drawable{
     void draw();
 }
